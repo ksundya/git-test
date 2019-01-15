@@ -2,7 +2,3 @@ test file
 for git use
 pulling from remote
 using GIT GUI
-
-new information
-new
-new
