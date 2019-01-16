@@ -6,3 +6,5 @@ using GIT GUI
 new information
 new
 new
+
+branches , merge
