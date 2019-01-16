@@ -11,4 +11,7 @@ branches , merge
 branches , merge
 non-fast-forward merge
 
+
 conflict solving
+conflict in feature
+
